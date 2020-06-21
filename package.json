@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tearofenemy/algorithms/issues"
   },
-  "homepage": "https://github.com/tearofenemy/algorithms#readme"
+  "homepage": "https://github.com/tearofenemy/algorithms#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
 }
