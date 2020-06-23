@@ -23,7 +23,6 @@ function capitalize(str) {
     /**
      * 2 solution
      * */
-
     let result = str[0].toUpperCase();
 
     for(let i = 1; i < str.length; i++) {
